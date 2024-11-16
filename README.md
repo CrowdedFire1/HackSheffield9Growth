@@ -17,3 +17,9 @@ source .venv/bin/activate
 streamlit run "your file name".py
 ```
 
+
+# stopping
+```
+control + c
+```
+
