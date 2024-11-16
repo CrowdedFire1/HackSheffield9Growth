@@ -1,9 +1,13 @@
 # HackSheffield9Growth
 
 
-# installing
+# Installation of streamlit and llama index
 ```
 pip install streamlit
+pip install llama-index-core
+pip install llama-index-llms-openai
+pip install llama-index-llms-replicate
+pip install llama-index-embeddings-huggingface
 ```
 
 # running
@@ -22,4 +26,8 @@ streamlit run "your file name".py
 ```
 control + c
 ```
+
+
+# API key
+Uses a replicate free api key
 
