@@ -22,7 +22,12 @@ streamlit run "your file name".py
 ```
 # API Key
 generate your own api key - sign up for replicate free api key
-
+use command:
+```
+#windows
+set REPLICATE_API_TOKEN="Your api key"
+#unix (includes mac)
+export REPLICATE_API_TOKEN="Your api key"
 # stopping
 ```
 control + c
