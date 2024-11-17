@@ -20,7 +20,8 @@ source .venv/bin/activate
 ```
 streamlit run "your file name".py
 ```
-
+# API Key
+generate your own api key - sign up for replicate free api key
 
 # stopping
 ```
