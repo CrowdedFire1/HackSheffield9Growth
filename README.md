@@ -28,8 +28,8 @@ use command:
 set REPLICATE_API_TOKEN="Your api key"
 #unix (includes mac)
 export REPLICATE_API_TOKEN="Your api key"
-# stopping
 ```
+# stopping
 control + c
 ```
 
